@@ -1,0 +1,10 @@
+print('\t' "Family Members Name List"'\n')
+name=input("Enter The Name"'\t')
+dad=input("Enter The Father Name"'\t')
+mom=input("Enter The Mother Name"'\t')
+bro=input("Enter The Brother Name"'\t')
+print(name)
+print(dad)
+print(mom)
+print(bro)
+
