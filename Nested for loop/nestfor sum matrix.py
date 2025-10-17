@@ -3,5 +3,5 @@ sum=0
 for i in range(2):
     for j in range(2):
         sum+=matrix[i][j]
-print("sum of All Elements is",sum)
+print("Sum of All Elements is",sum)
     
