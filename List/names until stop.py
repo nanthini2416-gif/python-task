@@ -8,4 +8,4 @@ while True:
 
 print("\nNames entered:")
 for n in names:
-    print(n)
+     print(n)
